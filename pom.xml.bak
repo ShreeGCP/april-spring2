@@ -57,7 +57,7 @@
 				<artifactId>git-commit-id-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>shree-jar</finalName>
+		<finalName>devops-integration</finalName>
 	</build>
 
 </project>
